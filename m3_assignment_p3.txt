@@ -1,0 +1,6 @@
+Files included:
+private key (privkey.pem)
+public key (pubkey.pem)
+original file (resume.pdf)
+signed file (sign.sha256)
+signed file in base 64 (sign.sha256.base64)
